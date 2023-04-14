@@ -1,2 +1,2 @@
-# elias-vscode
-ARCAD-Elias VSCode extension
+# ARCAD-Elias VSCode extension
+
