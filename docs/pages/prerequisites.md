@@ -7,6 +7,9 @@ ARCAD-Elias for VSCode requires [Code for IBM i](https://marketplace.visualstudi
 
 ## ARCAD
 ARCAD must be installed on the development IBM i server.
+Minimum versions are:
+- &gt;= 23.01 when using project mode
+- &gt;= 13.01 when using Skipper
 
 ## Elias REST API Server
 An Elias REST API Server must be up and running and reachable by VSCode. The server package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/). See the [setup](/pages/setup) section for more information on how to install and configure Elias REST API Server.
