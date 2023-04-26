@@ -1,5 +1,8 @@
 # ARCAD-Elias VSCode extension
-`ARCAD-Elias` gives developers access to ARCAD for DevOps features in VSCode.
+![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-elias](https://img.shields.io/visual-studio-marketplace/v/arcadsoftware.arcad-elias)
+![https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-elias](https://img.shields.io/visual-studio-marketplace/i/arcadsoftware.arcad-elias)
+
+[ARCAD-Elias](https://marketplace.visualstudio.com/items?itemName=arcadsoftware.arcad-elias) gives developers access to ARCAD for DevOps features in VSCode.
 
 ## ARCAD projects 🔨
 You can now work from VSCode in `project mode`, just as in any Git-hosted project. You can modify source, compile and build in ARCAD without needing to check-out/check-in your source. The integration with ARCAD is transparent and you can work on any Git branch, local or remote, in the same way as on any other platform, without needing to take care of any IBM i specifics on the backend. All complex ARCAD/IBM i tasks are performed automatically by the `ARCAD-Elias` tooling.

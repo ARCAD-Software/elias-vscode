@@ -1,4 +1,8 @@
 # Setup
+## Get the files
+Go to [ARCAD's Customer Portal](https://portal.arcadsoftware.com/); enter the `Products` section and open the `ARCAD Skipper` section. All the files mentionned below will be found under the `Visual Studio Code` category.
+![portal_001](../assets/portal_001.png)
+
 ## Elias REST API Server
 The Elias REST API Server comes packaged as a `.war` file. It can run on any operating system that supports Java. It must be deployed on an application server (e.g. IBM i integrated Web Application Server or Jetty), under the `/elias` context.
 A pre-packaged, ready to use Jetty installation can be found on [ARCAD's Customer Portal](https://portal.arcadsoftware.com/). It contains a Jetty runtime packaged with `elias.war`.
