@@ -1,0 +1,209 @@
+ARCAD SOFTWARE END USER LICENSE AGREEMENT
+
+IMPORTANT - THIS IS A LEGAL AGREEMENT BETWEEN YOU, ON BEHALF OF YOUR
+ORGANIZATION (“LICENSEE” OR “CUSTOMER”) AND ARCAD SOFTWARE, INC. 
+THAT CREATES FULLY ENFORCEABLE OBLIGATIONS
+SUBJECT TO THESE TERMS. BY CLICKING AN “I ACCEPT” BUTTON OR DOWNLOADING
+THE SOFTWARE, YOU AGREE TO THIS END USER LICENSE AGREEMENT (“EULA” or
+“Agreement”) AND YOU REPRESENT THAT YOU ARE AUTHORIZED TO ACCEPT THIS EULA
+ON BEHALF OF YOUR ORGANIZATION. This EULA governs the ARCAD Software proprietary
+software (“Software”) that ARCAD Software, or a ARCAD Software authorized distributor
+(“Distributor”), provides with the EULA, and related ARCAD Software user manuals
+and training materials (“Documentation”), including all revisions and
+updates that replace or supplement the Software or Documentation. These terms
+govern your use of the Software and Documentation except to the extent that it
+is subject to conflicting terms in a written license agreement Licensee has
+executed with ARCAD Software or its Distributor. 
+
+1. LICENSE/USE 
+a. ARCAD Software grants to the Customer to whom the Software is first delivered a
+non-exclusive, non-transferable right to use (“License”) the Software and
+Documentation for which Customer has paid the required License fees, solely for
+Customer’s internal business operations, within the country to which the
+Software is first provided (“Territory”), according to the Documentation
+and the EULA. Software is Licensed, not sold, for the time period, number and
+type of users, transactions, copies, seats, sessions, ports, IP addresses,
+central processing unit cycles, instructions per second or other quantity or
+measure specified in an order document and license key with ARCAD Software or
+Distributor (“Measured License”). Customer may make one copy of the
+Software for non-production backup purposes. If you are not the original
+Customer to which ARCAD Software or Distributor delivered the Software, or do not have
+an executed order document with ARCAD Software or Distributor for the Software, you may
+not use the Software or Documentation. Your actual use will not decrease (but
+may increase) the scope of the License granted and the Software fees you owe. 
+b. You will not: (i) rent, lease, or sublicense the Software, or use the
+Software as a service bureau or for hosting as an application service provider;
+(ii) permit any third party to access or use the Software or Documentation;
+(iii) transfer or use the Software or Documentation outside the Territory; (iv)
+use the Software except as specified in the Documentation; (v) translate, modify
+or make derivative works of the Software or Documentation; (vi) reverse
+engineer, decompile or disassemble the Software, except to the extent this
+restriction is superseded by local law, after you have disclosed your intended
+activity in writing to ARCAD Software; (vii) use the Software in excess of the Measured
+License that Customer purchased; (viii) use the Software in production if
+provided under a testing, evaluation, development or other non-production
+License; (ix) alter the Software’s copyright or other intellectual property
+rights notices; or (x) infringe or misappropriate ARCAD Software’s or its
+licensors’ Intellectual Property. 
+c. ARCAD Software may provide the Software for evaluation, demonstration or other
+limited time use (“Restricted Use”). The terms of this EULA apply to any
+Software for Restricted Use. In addition, evaluation is limited to 10 calendar
+days from the first day Customer has access to the Software (“Restricted Use
+Period”). ARCAD Software may, at its option, extend the Restricted Use Period. Prior
+to the end of the Restricted Use Period, Customer must purchase a License for
+continued use or the Restricted Use Period terminates and Customer must cease
+using the Software. A Restricted Use License is not for production use. 
+
+2. TERMINATION
+a. Customer’s License will terminate (i) immediately without notice if
+Customer infringes or misappropriates ARCAD Software’s intellectual property in the
+Software or Documentation or fails to comply with this Agreement; or (ii) as
+specified in the Warranty terms. 
+b. Customer may terminate this Agreement upon thirty (30) days’ notice to
+ARCAD Software. Upon termination, any rights Customer had to use the Software will
+terminate.
+c. Upon termination Customer will immediately return or destroy the Software
+and, upon ARCAD Software’s request, provide written certification of destruction.  
+
+3. LIMITED WARRANTY 
+a. ARCAD Software warrants that the Software will perform substantially according to
+ARCAD Software’s current published technical specifications, when used according to
+the Documentation, for 90 days from the date ARCAD Software delivers the Software to
+Customer or your Distributor (“Warranty”). Customer or Distributor must
+provide a written claim to ARCAD Software within the Warranty period. ARCAD Software will repair
+or replace Software not conforming to the Warranty, or, at its option, refund
+the part of the fees paid to ARCAD Software (if any) for the Software, and the Software
+License terminates. Replacement Software is warranted for the remainder of the
+original Warranty period. THIS WARRANTY IS ARCAD SOFTWARE’S SOLE LIABILITY AND
+CUSTOMER’S EXCLUSIVE REMEDY FOR A SOFTWARE CLAIM, ARCAD SOFTWARE’S BREACH OF THE
+AGREEMENT OR ANY OTHER LIABILITY RELATING TO THE SOFTWARE. Except for a refund
+elected by ARCAD Software, YOU ARE NOT ENTITLED TO ANY DAMAGES, INCLUDING BUT NOT
+LIMITED TO CONSEQUENTIAL DAMAGES if the Software does not conform under
+ARCAD Software’s limited Warranty, to the maximum extent allowed by law, even if any
+remedy fails of its essential purpose. NOTWITHSTANDING ANY PROVISION TO THE
+CONTRARY, ARCAD SOFTWARE PROVIDES SOFTWARE FOR RESTRICTED USE ON AN "AS IS" BASIS,
+WITHOUT SUPPORT, WARRANTY OR INDEMNITY OF ANY KIND. ARCAD SOFTWARE IS NOT LIABLE FOR ANY
+LOSS OR DAMAGES, DIRECT OR INDIRECT, RESULTING FROM USE OR ATTEMPTED USE OF
+RESTRICTED USE SOFTWARE DURING AND AFTER THE RESTRICTED USE PERIOD. 
+b. Warranty does not cover problems caused by: (i) misuse, alteration,
+enhancements, neglect, accident, unauthorized repair or installation, or acts or
+omissions of any party other than ARCAD Software, including virus or hacker attacks;
+(ii) Customer’s hardware, software, networks, systems, content, application
+programming, servers, materials, scripts, data, or files; (iii) Customer not
+using Software according to ARCAD Software’s current Documentation; (iv) Customer
+configuration changes; (v) Customer’s failure to comply with ARCAD Software’s
+security and upgrade policies; or (vi) circumstances beyond ARCAD Software’s
+reasonable control. 
+c. ARCAD SOFTWARE AND ITS LICENSORS DISCLAIM ALL OTHER WARRANTIES, REPRESENTATIONS AND
+GUARANTEES, EXPRESS OR IMPLIED, ORAL OR WRITTEN, FOR DOCUMENTATION AND SOFTWARE,
+THEIR USE, SUFFICIENCY, RELIABILITY, TIMELINESS, QUALITY, SECURITY, SUITABILITY,
+TRUTH, COMPLETENESS OR ACCURACY, WHETHER STATUTORY, EXPRESS, IMPLIED, ORAL,
+WRITTEN OR OTHERWISE, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT, OR THAT
+SOFTWARE FUNCTIONS WILL BE UNINTERRUPTED, ERROR FREE, OR OPERATE IN COMBINATION
+WITH ANY OTHER HARDWARE, SOFTWARE, SYSTEM, OR DATA; THAT RESULTS WILL MEET
+CUSTOMER’S REQUIREMENTS OR EXPECTATIONS; ERRORS OR DEFECTS WILL BE CORRECTED;
+OR THE SOFTWARE IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. 
+
+4. LIMITATION OF LIABILITY 
+a. TO THE MAXIMUM EXTENT PERMITTED BY LAW, ARCAD SOFTWARE AND ITS LICENSORS WILL NOT BE
+LIABLE TO ANY PARTY FOR: (i) CONSEQUENTIAL, INDIRECT, SPECIAL, PUNITIVE OR
+INCIDENTAL DAMAGES; (ii) INTERRUPTION OF BUSINESS OR OPERATIONS, COST OF COVER,
+GOODWILL, TOLL FRAUD, OR LOSS OF DATA, CONFIDENTIAL INFORMATION, PROFITS,
+REVENUE, OR PRIVACY; (iii) FAILURE TO MEET ANY DUTY INCLUDING GOOD FAITH OR
+REASONABLE CARE; (iv) OTHER LOSS RELATED TO USE OF OR INABILITY TO USE THE
+SOFTWARE, CONTENT THROUGH THE SOFTWARE, OR ARISING OUT OF THIS AGREEMENT; (v)
+FAULT, TORT, NEGLIGENCE, MISREPRESENTATION, STRICT LIABILITY, BREACH OF CONTRACT
+OR BREACH OF WARRANTY OF ARCAD SOFTWARE OR ITS LICENSORS; AND EVEN IF ARCAD SOFTWARE OR ITS
+LICENSORS HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+b. The entire liability of ARCAD Software and its licensors under this EULA and your
+exclusive remedy (including repair or replacement elected by ARCAD Software for the
+Limited Warranty) is limited to the actual damages you incur up to the amount
+paid to ARCAD Software for the Software. ARCAD SOFTWARE’S FAILURE TO EXERCISE A RIGHT OR
+REMEDY IS NOT A WAIVER. 
+
+5. INTELLECTUAL PROPERTY OWNERSHIP 
+“Intellectual Property” means all intellectual property, including
+inventions, patents, copyrights, trademarks, service marks, trade names, trade
+secrets, know-how, moral rights, licenses, and any other intangible proprietary
+or property rights, whether or not patentable or otherwise subject to legally
+enforceable restrictions or protections against unauthorized third party usage
+or whether arising by statute or common law. ARCAD Software or its licensors own and
+retain all right, title and interest to and in all Intellectual Property in the
+Software and Documentation, developments, research data, designs, layout,
+models, formulae, documents, drawings, plans, specifications and other ARCAD Software
+information, proprietary materials and all derivative works. To the extent that
+any right, title or interest in or to any ARCAD Software Intellectual Property may not
+automatically vest in ARCAD Software by operation of law, Customer irrevocably
+transfers, assigns and conveys all right, title, and interest therein to ARCAD Software.
+At ARCAD Software’s request and expense Customer will promptly take any action and
+execute any documents necessary to vest full title in ARCAD Software or its licensors. 
+
+6. CONFIDENTIALITY 
+a. “Confidential Information” means any material, data or information, in
+any form or media, that is proprietary or confidential to ARCAD Software and is marked
+as confidential, or not marked but by its nature or treatment by ARCAD Software should
+reasonably be considered to be confidential. Confidential Information includes
+the EULA, Documentation and Software, ARCAD Software’s Intellectual Property,
+specifications, manuals, product roadmaps, financial data, pricing, and results
+of benchmark tests. Confidential Information does not include information that
+is: (i) publicly available without breach of the EULA; (ii) reasonably shown to
+ARCAD Software’s satisfaction to have been known by Customer prior to disclosure by
+ARCAD Software; (iii) independently developed by Customer prior to ARCAD Software’s
+disclosure without breach of the EULA or reference to any ARCAD Software Confidential
+Information; or (iv) obtained by Customer from a third party without
+confidentiality obligation. Software is not deemed to be placed in the public
+domain by ARCAD Software. Customer will promptly notify ARCAD Software if it is compelled by a
+court or legal process to disclose Confidential Information and will take any
+reasonable action requested by ARCAD Software to maintain the confidentiality of the
+Confidential Information. 
+b. Customer will use best efforts to prevent disclosure to ARCAD Software of any
+personally identifiable information (PII) regarding Customer’s employees or
+customers. Customer is solely responsible for complying with any requirements
+regarding PII disclosed to ARCAD Software. Customer will use ARCAD Software's Confidential
+Information solely to perform its obligations under the EULA. Customer will take
+commercially reasonable steps to safeguard ARCAD Software's Confidential Information,
+including no less than the steps taken to protect its own Confidential
+Information. Customer will not disclose ARCAD Software's Confidential Information except
+to its employees bound by written confidentiality obligations no less
+restrictive than this provision. Customer must promptly notify ARCAD Software in writing
+of unauthorized use or disclosure of Confidential Information. Customer, at its
+expense, must take all reasonable actions to recover Confidential Information
+and prevent further unauthorized use or disclosure, including action for seizure
+and injunctive relief. If Customer fails to do so in a timely manner, ARCAD Software may
+do so at Customer's expense, and Customer will reasonably cooperate. 
+
+7. MISCELLANEOUS 
+a. Applicable Law and Jurisdiction.
+The EULA is governed by French law. Any dispute arising from the interpretation or performance 
+of the Contract shall, after failure to reach an amicable resolution in accordance with the above 
+conditions, be submitted to the exclusive jurisdiction of the legal court of PARIS, 
+notwithstanding multiple defendants or third party claims, regardless of the type of procedure or action, 
+even for emergency procedures or protective procedures, in summary proceedings or on petition.
+
+8. EXCLUDED COMPONENTS 
+The provisions of this paragraph do not apply to the extent they are held to be
+invalid or unenforceable under the law that governs this EULA. Notwithstanding
+any of the terms in the EULA or any other agreement Licensee may have with
+ARCAD Software: 
+(a) the third-party providers of certain components to ARCAD Software (the "Suppliers")
+provide the components (“Excluded Components”) WITHOUT WARRANTIES OF ANY
+KIND and, such Suppliers DISCLAIM ANY AND ALL EXPRESS AND IMPLIED WARRANTIES AND
+CONDITIONS INCLUDING, BUT NOT LIMITED TO, THE WARRANTY OF TITLE,
+NON-INFRINGEMENT OR INTERFERENCE AND THE IMPLIED WARRANTIES AND CONDITIONS OF
+MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE
+EXCLUDED COMPONENTS; 
+(b) the Suppliers shall not be liable for any direct, indirect, incidental,
+special, exemplary, punitive or consequential damages, including but not limited
+to lost data, lost savings, and lost profits, with respect to the Excluded
+Components; and, 
+(c) neither ARCAD Software nor the Suppliers shall be liable to Licensee for any claims
+arising directly or indirectly from or related to the Excluded Components. 
+(d) Notices with respect to the Excluded Components, including instructions for
+obtaining source code (as applicable) for certain Excluded Components, may be
+found in the NOTICES or README file included in the Software. 
+(e) Licensee use of the Excluded Components is governed by the terms of the EULA
+and not by any terms that may be contained in the NOTICES section. Future
+Software updates may contain additional Excluded Components. Such additional
+Excluded Components, and related notices and information, if any, will be listed
+in the NOTICES file that accompanies the Software update. 
