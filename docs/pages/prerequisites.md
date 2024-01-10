@@ -16,7 +16,13 @@ Minimum versions are:
 - At least &gt;= 13.01, preferably &gt;= 22.00 when using Skipper
 
 ## Elias REST API Server
-An Elias REST API Server must be up and running and reachable by VSCode. The server package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/). See the [setup](/pages/setup) section for more information on how to install and configure Elias REST API Server.
+An Elias REST API Server must be up and running and reachable by VSCode.
+
+The server package can be downloaded from:
+- [ARCAD's Customer Portal](https://portal.arcadsoftware.com/)
+- [ARCAD-Elias releases page on GitHub](https://github.com/ARCAD-Software/elias-vscode/releases)
+ 
+See the [setup](/pages/setup) section for more information on how to install and configure Elias REST API Server.
 
 ## Elias CLI <small>(Project mode only)</small>
 If you plan on developing your applications using Project mode, the Elias CLI must be installed on the development IBM i server. The CLI package can be downloaded from [ARCAD's Customer Portal](https://portal.arcadsoftware.com/). See the [setup](/pages/setup) section for more information on how to install Elias CLI.
