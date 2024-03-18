@@ -1,11 +1,12 @@
 # Setup
 ## Get the files
-Go to [ARCAD's Customer Portal](https://portal.arcadsoftware.com/); enter the `Products` section and open the `ARCAD Skipper` section. All the files mentionned below will be found under the `Visual Studio Code` category.
-![portal_001](../assets/portal_001.png)
+You can get all the files mentionned below from:
+- [ARCAD-Elias release on GitHub](https://github.com/ARCAD-Software/elias-vscode/releases/latest)
+- [ARCAD's Customer Portal](https://portal.arcadsoftware.com/) (Go to the `Products` section and open the `ARCAD Skipper` section.
 
 ## Elias REST API Server
 The Elias REST API Server comes packaged as a `.war` file. It can run on any operating system that supports Java. It must be deployed on an application server (e.g. IBM i integrated Web Application Server, Jetty, Tomcat...whatever floats your boat!), under the `/elias` context.
-A pre-packaged, ready to use Jetty installation can be found on [ARCAD's Customer Portal](https://portal.arcadsoftware.com/). It contains a Jetty runtime packaged with `elias.war`.
+A pre-packaged, ready to use Jetty installation is available too. It contains a Jetty runtime packaged with `elias.war`.
 
 ### Pre-packaged JETTY IBM i installation
 1. Copy the `Setup_Elias-Webservices-X.Y.Z_IBMi.jar` on the IFS, in the `/tmp` folder.
@@ -23,7 +24,7 @@ java -jar Setup_Elias-Webservices-X.Y.Z-SNAPSHOT_IBMi.jar
     - `JETTY/ENDJTYSVR`
 
 ### Enabling log4j2 logging on Jetty
-Elias uses log4j2 for logging, but support for l4j2 may not be enabled in Jetty, as it was recently added in Jetty pre-packaged setup. Here is how to enable it manually:
+Elias uses log4j2 for logging, but support for l4j2 may not be enabled in Jetty, as it was recently added in Jetty pre-packaged setup. Here is how to enable it manually **if elias.log does not show up under Jetty's logs folder**:
 1. Stop Jetty
 2. Open a command terminal and go to Jetty's installation folder
 3. Run the following command: `java -jar start.jar --add-to-start=logging-log4j2`
