@@ -21,9 +21,9 @@ An Elias REST API Server must be up and running and reachable by VSCode.
 The server package can be downloaded from:
 - [ARCAD-Elias release on GitHub](https://github.com/ARCAD-Software/elias-vscode/releases/latest)
 - [ARCAD's Customer Portal](https://portal.arcadsoftware.com/)
-
  
 See the [setup](/pages/setup) section for more information on how to install and configure Elias REST API Server.
+
 ## Project mode requirements
 ### IBM Prooject Explorer extension
 This extension is required to enable Elias' Project Mode, if you wish to work locally on a project hosted on Git. It can be found on the market: [IBM Project Explorer](https://marketplace.visualstudio.com/items?itemName=IBM.vscode-ibmi-projectexplorer)
