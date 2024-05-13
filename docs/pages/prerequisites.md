@@ -21,7 +21,8 @@ An Elias REST API Server must be up and running and reachable by VSCode.
 The server package can be downloaded from:
 - [ARCAD-Elias release on GitHub](https://github.com/ARCAD-Software/elias-vscode/releases/latest)
 - [ARCAD's Customer Portal](https://portal.arcadsoftware.com/)
- 
+
+
 See the [setup](/pages/setup) section for more information on how to install and configure Elias REST API Server.
 
 ## Project mode requirements
