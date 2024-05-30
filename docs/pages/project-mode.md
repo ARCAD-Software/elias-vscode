@@ -6,37 +6,39 @@
 In that case, you have an IBM i application not declared in ARCAD Skipper.
 
 #### Change type of RPGLE copies
-The first thing to is to change the RPGLE copies type to have the new RPGLEINC value.
+The first thing to do is to change the RPGLE copies type to use the RPGLEINC type.
 
 It is possible to use PDM to do that.
 
 ![alt text](../assets/ProjectMode_001.png)
 
 #### Declare an ARCAD application
-The second step is to declare a new ARCAD application.
+The next step is to declare a new ARCAD application.
 
-To do that, enter into ARCAD with the command ARCAD_ENG/ARCAD and then use the ADCLAPP command and 
-- fill the Application ID (if your Application ID is longer than three characters, fill also the Library name prefix)
+- From 5250: access ARCAD with the command ARCAD_ENG/ARCAD, then use the ADCLAPP command.
+![alt text](../assets/ProjectMode_002.png)
+- From the Skipper Explorer, use the `Declare application` action.
+![alt text](../assets/ProjectMode_036.png)
+
+- fill the Application ID/code
+- if your Application code is longer than three characters, fill the Library name prefix
 - add a Brief description
 - fill the Application Manager 
 - fill the Operational libraries (i.e. not only the libraries that contain the source members that will be pushed to Git but also the libraries that contain the objects and files of your application)
-- press ENTER
 
-![alt text](../assets/ProjectMode_002.png)
 
 Then complete the library list for your application to make it useable and press ENTER.
 
 ![alt text](../assets/ProjectMode_003.png)
 
 #### Generate Sources for SCM
-Before loading the ARCAD repository, the third step is to generate a source for components that normally usually do not need it, such as *DTAARA, *MSGF, *SRVPGM, etc.
+Before loading the ARCAD repository, the third step is to generate pseudo source for components that are not compilable, such as *DTAARA, *MSGF, *SRVPGM, etc.
 
-This is mandatory for an SCM like Git which only manages sources.
+This is mandatory for an SCM like Git that only manages source code.
 
-To do that, use the GENSCMSRC macro-command and
+To do that, use the GENSCMSRC macro-command:
 - fill the Application ID
 - fill the Source file library (use one of the libraries indicated in the previous step)
-- press ENTER.
 
 ![alt text](../assets/ProjectMode_004.png)
 
@@ -49,8 +51,8 @@ To do that, use the DECLARE3 macro-command, fill the Application ID and press EN
 
 > Warning: if there are many source members, submit this macro-command.
 
-#### Create development environment
-A development environment in mandatory to create a version in ARCAD.
+#### Create a development environment
+A development environment is mandatory to create a version in ARCAD.
 
 To do that, use the ADCLENV command and
 - fill the Application ID
@@ -59,14 +61,13 @@ To do that, use the ADCLENV command and
 - fill *NRM for Implementation mode
 - add a Brief description
 - fill a Prefix for version library if your Application ID is longer than three characters
-- press ENTER
 
 ![alt text](../assets/ProjectMode_006.png)
 
 #### Create version type
 Finally, you need to create a version type for your application.
 
-To do that, use the AWRKVERTYP command, press ENTER and then use the option 3=Copy for the three standard version types *FEATURE, *RELEASE and *SANDBOX.
+To do that, use the AWRKVERTYP command, press ENTER and then use the option `3=Copy` for the three standard version types *FEATURE, *RELEASE and *SANDBOX.
 
 ![alt text](../assets/ProjectMode_007.png)
 
@@ -106,13 +107,13 @@ An empty repository was created.
 It is possible now to copy the SSH URL to add it into the ARCAD application.
 
 #### Update application operational attributes
-It is time now to edit your operational attributes in order to make a link between your application and your Git repository.
+It is time to edit your operational attributes in order to make a link between your application and your Git repository.
 
 To do that, use the AEDTAPPATR command for your application and set the Name of the External SCM product parameter to GIT, paste the SSH URL of your Git repository in the Repository URI parameter and press ENTER.
 
 ![alt text](../assets/ProjectMode_009.png)
 
-Then, press F15=GIT config to finish the Git Configuration.
+Then, press `F15=GIT` config to finish the Git Configuration.
 
 On the new menu
 - use option 1 to change the default branch name if needed.
@@ -128,9 +129,9 @@ Then, you can press F3 several times to exit the different menus.
 > When you are on the AEDTAPPATR screen, you can also set the Source member header update to *NONE and set the Mandatory attachment of document/component to N.
 
 #### Generate SSH keys and add them to your Git profile
-If you did not have SSH keys for your profile on your IBM i, you need to calculate one and add it to your Git profile.
+If you did not have SSH keys for your profile on your IBM i, you need to generate one and add it to your Git profile.
 
-To create SSH keys, you can use the AGENSSHKEY ARCAD Command or the SSH-KEYGEN command in a QSH session.
+To generate SSH keys, you can use the AGENSSHKEY ARCAD Command or the `ssh-keygen` command in a shell session.
 
 With the ARCAD Command, fill the Key type you want to generate, set the Action parameter to *GEN and then press ENTER.
 
@@ -138,7 +139,7 @@ With the ARCAD Command, fill the Key type you want to generate, set the Action p
 
 When keys are generated, display and copy the public key and then paste it in your Git profile.
 
-After that you are ready to send all the source members from the ARCAD Skipper repository to the Git repository.
+You are now ready to send all the source members from the ARCAD Skipper repository to the Git repository.
 
 #### Loading the remote Git repository
 To send all the source members to the Git repository use the ARCAD macro-command LODSCMREP, fill the Application ID parameter and press Enter.
@@ -153,13 +154,13 @@ Go to your workspace, select the option to clone a repository and paste the SSH 
 When the clone process is finished, you can see all the source members in your workspace.
 
 #### Connect to the IBM i
-Go to the node CONNEXIONS to see the connexion to IBM i you can used then click on the triangle icon to do the connexion.
+Go to the node CONNECTIONS to see the connection to IBM i you can used then click on the triangle icon to do the connection.
 
 ![alt text](../assets/ProjectMode_014.png)
 
 #### Complete the setup
 
-When the connexion is done, go to the node PROJECT EXPLORER, and after a right click on the project, select the option Configure project for ARCAD.
+When the connection is done, go to the node PROJECT EXPLORER, and after a right click on the project, select the option Configure project for ARCAD.
 
 That will create some new files (.gitignore and .arcadignore)
 
@@ -172,7 +173,7 @@ Stage the files, add a commit message and press on Commit.
 Then click on Sync Changes to push these files into the remote Git repo.
 
 > You may need to configure your name and email address for Git to perform these actions.  
-To do this, simply go to a terminal and run the commands git config user.name “Your Name” and git config user.email “Your email”
+To do this, simply go to a terminal and run the commands `git config user.name “Your Name”` and `git config user.email “Your email”`
 ![alt text](../assets/ProjectMode_016.png)
 
 Now it is possible to use this setup for development.
