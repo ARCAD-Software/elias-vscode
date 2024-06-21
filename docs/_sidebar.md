@@ -1,5 +1,7 @@
 * [ARCAD-Elias](/)
 * [Prerequisites](pages/prerequisites.md)
 * [Setup](pages/setup.md)
-* [Getting started](pages/getting-started.md)
 * [Project mode](pages/project-mode.md)
+* [Custom actions](pages/custom_actions.md)
+* [Observer CodeLens](pages/codelens.md)
+* [Maintenance reports](pages/maintenance_reports.md)
