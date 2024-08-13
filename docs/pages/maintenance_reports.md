@@ -56,11 +56,29 @@ Running the `Delete` action will show a modal confirmation dialog. The selected 
 
 ![](../assets/mr_12.png)
 
-### List linked components and version
-Each maintenance report can be expanded to list its linked versions and components.
+### List linked entities
+Each maintenance report can be expanded to list its linked entities.
 
+#### Components and versions
 ![](../assets/mr_13.png)
 
-Right clicking on components and versions listed here allows to run the Unlink action to delete the link between the selected entity and the maintenance report.
+Right clicking on components or versions listed here allows to run the Unlink action to delete the link between the selected entity and the maintenance report.
 
 ![](../assets/mr_14.png)
+
+#### List linked paths
+The `Linked paths` node shows the paths linked to this maintenance report. Paths are arbitrary strings which may or may not be accessible from the user's workstation.
+
+![](../assets/mr_15.png)
+
+- To add a linked path to the selected maintenance report, click on the `+` on the Linked paths node.
+
+![](../assets/mr_16.png)
+
+This action will prompt to choose between entering the path manually or selecting one or more files locally accessible (including network shares).
+
+- Left click on a linked paths to open it in VSCode.
+
+- Right click on a path to:
+  - Reveal its location in the system's File Explorer
+  - Unlink it
