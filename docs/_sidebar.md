@@ -3,5 +3,6 @@
 * [Setup](pages/setup.md)
 * [Project mode](pages/project-mode.md)
 * [Custom actions](pages/custom_actions.md)
+* [Macro-commands](pages/macro_commands.md)
 * [Observer CodeLens](pages/codelens.md)
 * [Maintenance reports](pages/maintenance_reports.md)
