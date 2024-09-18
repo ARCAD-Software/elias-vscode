@@ -47,6 +47,7 @@ Right-clicking on a Macro-Commd will give access to these actions:
 | Action | Description |
 | --------- | ----------- |
 | Add to favorites | Add the selected Macro-command to the explorer's `Favorites` section |
+| Compare with reference | Compare the selected Macro-command to its reference (only available on ARCAD standard Macro-command) |
 | Regenerate | Run the `AGENMACCMD` command on the selected Macro-command |
 | Duplicate | Create a copy of the selected Macro-command in another library |
 | Move | Move the selected Macro-command to another library |
