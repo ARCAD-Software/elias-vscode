@@ -51,6 +51,7 @@ Right-clicking on a Macro-Commd will give access to these actions:
 | Regenerate | Run the `AGENMACCMD` command on the selected Macro-command |
 | Duplicate | Create a copy of the selected Macro-command in another library |
 | Move | Move the selected Macro-command to another library |
+| REname | Rename the selected Macro-command |
 | Export | Export and download the selected Macro-command as a `.json` or a `.savf` file |
 | Delete | Delete the selected Macro-command |
 
