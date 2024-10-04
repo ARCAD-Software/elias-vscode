@@ -1,6 +1,7 @@
 * [ARCAD-Elias](/)
 * [Prerequisites](pages/prerequisites.md)
 * [Setup](pages/setup.md)
+* [Tips & tricks](pages/tips.md)
 * [Project mode](pages/project-mode.md)
 * [Custom actions](pages/custom_actions.md)
 * [Macro-commands](pages/macro_commands.md)
