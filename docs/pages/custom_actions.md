@@ -27,6 +27,7 @@ The JSON schema of the action editor supports the following attributes:
 | prompt | If `true`, the command will be prompted before it's executed | no |
 | submit | If `true`, the command will be submitted using `SBMJOB` | no |
 | submitParameters | *SBMJOB* parameters to use if the command is submitted. Supports `&XXX` placeholders to reference action target's properties. Example: `JOB(&NAME) JOBQ(ARCAD_SYS/ARCAD_CTL)`. | no |
+| interactive | If `true` and the command is a macro-command, then it will be executed in interactive mode (i.e. `ADSPLST` will stop the execution and display the list.) | no |
 
 ### Replacement variables
 The `command` and `submitParameters` attributes both support replacement variables. The replacement variables are placeholders, starting with `&`, whose value will be replaced when the action is executed with the action target's values.
