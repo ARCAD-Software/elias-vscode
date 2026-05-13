@@ -1,6 +1,14 @@
-**ATTENTION** : For any demand or issue, Please do not use anymore GITHUB ISSUES. this will be desactivated soon for this project.
+**ATTENTION** : For any demand or issue, Please do not use anymore GITHUB ISSUES. It has been desactivated on the 5/13 for this project.
 instead, Send an email to [support](support-eu@arcadsoftware.com) or use the ARCAD software customer portal :
 [Support portal](https://akuiteo.arcadsoftware.com/akuiteo.clients/login/login.html)
+
+Issues has been transfered to the support : 
+
+<img width="1117" height="610" alt="image" src="https://github.com/user-attachments/assets/9f5cb494-642d-4118-9ef3-20cfff2f3708" />
+
+
+
+
 
 <div style="text-align:center">
     <img src="./docs/media/logo.png" />
